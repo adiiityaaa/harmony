@@ -1,0 +1,33 @@
+{
+ "token": "ODU0MzE2ODkyODk4NzIxNzky.YMiKmw.QDxVwG8UbjHGi6Wr0fkpLtMQc94",
+ "node1": [{
+         "host": "usfr2.forcehost.net",
+         "port": 25583,
+         "retryDelay": 5000,     
+         "password": "LavalinkForTrexy"
+       }],
+ "node2": [{
+         "host": "lavalink-repl-1.jarvis3653.repl.co",
+         "port": 443,
+         "password": "LavalinkForTrexy",
+         "retryDelay": 5000,
+         "secure": true
+ }],
+  "node3": [{
+         "host": "ult12.falix.gg",
+         "port": 28673,
+         "password": "LavalinkForTrexy",
+         "retryDelay": 5000
+  }],
+  "node4": [{
+         "host": "78.46.43.222",
+         "port": 25575,
+         "password": "LavalinkForTrexy",
+         "retryDelay": 5000
+  }],
+"spotifyID": "8b73e608eb834037989348ac0293c11c",
+"spotifySecret": "4c39049ba9c84fdca28fcb4fa944a261",
+"ConfigURL": "mongodb+srv://harmony1database3653:jarviscreatedthisbotokaybye1605@cluster0.rl0hi.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+"PremiumURL": "mongodb+srv://harmonyallpremiumdb:jarvisistheownerofthesebotsokaybye3653@premiumx.arkbv.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+"LangURL": "mongodb+srv://languagesystemaccess:harmonyevenhasseverallanguagesupportboi3653@cluster0.sywic.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
