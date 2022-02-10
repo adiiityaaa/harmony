@@ -5,4 +5,5 @@ A Multipurpose bot with main focus on Music based on Discord.js v13 and erela.js
 THIS PROJECT HAS BEEN ABANDONED. Erela.js is complex for Beginners, and is also hard to learn. As a result, this project is being Abandoned.
 
 # Further Development
-Development of Music Bot will still Continue. Here after, it will be Developed in Distube.js, completely abandoning this Code.
+~~Development of Music Bot will still Continue. Here after, it will be Developed in Distube.js, completely abandoning this Code.~~
+Development of the Newer version of this Bot has began in **erela.js** under new version __**Meridian**__ and the repository will be released soon!
